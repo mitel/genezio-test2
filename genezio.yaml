@@ -1,0 +1,11 @@
+backend:
+    language:
+        name: ts
+        packageManager: npm
+    path: .
+    scripts:
+        deploy: npm install
+        local: npm install
+name: whatsapp-bot-starter
+region: eu-central-1
+yamlVersion: 2
